@@ -1,0 +1,43 @@
+*{
+    list-style: none;
+    font-size: px;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+.clase-header
+{
+    background-color: bisque;
+}
+.logo
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 30 px
+    ;
+}
+.fondo
+{
+width: 600px;
+height: 150px;
+}
+.main
+{
+
+}
+.cafe, .bebidas, .malteadas, .infusiones
+{
+background-color: antiquewhite;
+border: 3px solid chocolate;
+padding: 30px 120px;
+
+}
+
+.cajas 
+{
+    padding:  3px 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+
+}
